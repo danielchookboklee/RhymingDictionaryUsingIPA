@@ -1,0 +1,30 @@
+01 /ɪ/		IH			fit
+02 /e/ (or /ɛ/?)EH0 EH1 EH2		pet
+03 /æ/		AE0 AE1 AE2		pat
+04 /ʌ/		AH0 AH1 AH2		cut
+05 /ʊ/		UH0 UH1 UH2		put
+06 /ɒ/		AA0 AA1 AA2		pot
+07 /ə/		AH0 AH1	AH2		about(ab), system(tem), complete(com)
+08 /i:/		IY0 IY1 IY2		week
+09 /ɑ:/		AA1			hard
+10 /ɔ:/					fork
+11 /ɜ:/					heard
+12 /u:/					boot
+13 /eɪ/					place
+14 /oʊ/					home
+15 /aʊ/					mouse
+16 /ɪə/					clear
+17 /eə/					care
+18 /ɔɪ/					boy
+19 /aɪ/					find
+20 /ʊə/					tour
+
+
+
+
+
+
+
+
+
+https://englishphonetics.net/english-phonetics-academy/the-20-vowels-sounds-in-English-with-examples.html
