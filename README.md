@@ -1,7 +1,7 @@
 # RhymingDictionaryUsingIPA
 
 ## Name
-Rhyming Dictionary
+Rhyming Dictionary, Using IPA
 
 ## Description
 This is a Rhyming Dictionary that more precisely uses the IPA (International Phoentic Alphabet) to find exact rhymes based on final syllable. The top results are the most commonly used words that also rhyme with the word given by the user. A lot of fun linguistics in this code!
@@ -26,7 +26,7 @@ If you have ideas for releases in the future, it is a good idea to list them in 
 Sole author of the project is @danielchookboklee.
 
 ## License
-Planned license upon completion is the MIT License.
+Planned license is the MIT License.
 
 ## Project status
 Development has slowed on this project and may pick up again one day.
