@@ -1,0 +1,4 @@
+1. Get the resources: a dictionary of words by phoneme,
+2. Make lists of "All words sorted by the last vowel phoneme", and then make lists of valid rhymes from the last phoneme(s) as well
+3. Make a program that accepts a word and returns back the appropriate list of valid from the last phonemes
+4. Make a GUI
